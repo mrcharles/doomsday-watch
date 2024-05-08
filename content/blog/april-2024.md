@@ -56,6 +56,6 @@ Have you ever looked at some tile and thought you saw a face? [Maybe you did.](h
 
 ## Please Distract Me From This Hell
 
-Here's a fun video where you get to see Brent Hinds continue to be a complete burnout while Bill Kelliher continues to carry a presentation about [Mastodon's 11 heaviest riffs](https://www.youtube.com/watch?v=-IHeyHX4HLc).
+Here's a fun video where you get to see Brent Hinds continue to be a complete burnout while Bill Kelliher carries a presentation about [Mastodon's 11 heaviest riffs](https://www.youtube.com/watch?v=-IHeyHX4HLc).
 
-And here's [a wonderful solo fingerstyle folk album](https://derrickanthonyvella.bandcamp.com/album/i-hardly-knew-me) from a guy better known for extreme metal (Derrick Vella from Tomb Mold / Dream Unending);
+And here's [a wonderful solo fingerstyle folk album](https://derrickanthonyvella.bandcamp.com/album/i-hardly-knew-me) from a guy better known for extreme metal (Derrick Vella from Tomb Mold / Dream Unending).
