@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doomsday Watch</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Doomsday Watch</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024, Charles Randall.</copyright>
+    <lastBuildDate>Wed, 08 May 2024 14:18:16 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>April 2024</title>
+      <link>http://localhost:1313/april-2024/</link>
+      <pubDate>Wed, 08 May 2024 14:18:16 -0400</pubDate>
+      <guid>http://localhost:1313/april-2024/</guid>
+      <description>Tech Doom AI This long read about the death of the internet is excellent. Some real great quotes in it:&#xA;Those who rely on generative AI to create are not creators any more than a person that commissions a portrait is an artist.&#xA;I am not saying that user-generated content will disappear, but that human beings cannot create content at the scale that automation can, and when a large chunk of the internet is content for robots, that is the content that will inform tomorrow&amp;rsquo;s models.</description>
+    </item>
+  </channel>
+</rss>
